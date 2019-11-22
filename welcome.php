@@ -8,7 +8,7 @@
 
 	<?php  echo"  Aljun M." ;?>
 	</h1>
-	<div style="background-color:yellow; border-radius:12px; border: 5px solid black; text-decoration: none; height: 100px; width: 100px;">
+	<div style="background-color:yellow; border-radius:12px; border: 5px solid black; text-decoration: none; height: 500px; width: 500px;">
 	<?php //this is comment only //?>
 	<br><br><br><a href="welcome.php"><button style="border-radius: 5px; border-width: 5px; font-size: 15px;" >Welcome</button> </a><br>
 	<a href="getmethod.php"><button style="border-radius: 5px; border-width: 5px; font-size: 15px;" >Getmethod</button> </a><br>
